@@ -6,7 +6,8 @@
   - `npm run dev`
   - port: 4000
   - DB
-    - mLab
+    - mongoDB
+    - Using mLab
   - GraphQL
   - Express
 - Client
